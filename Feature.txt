@@ -2,6 +2,10 @@ Hello
 Hello World
 Hy
 Helloooo
+<<<<<<< HEAD
 hy
 6th line added
 7th line added
+=======
+hy
+>>>>>>> f524c17abf086972cd3276701a585022b2f5eb4d
